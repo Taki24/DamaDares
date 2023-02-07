@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DamaDares/static/css/main.00dd578e.css",
+    "main.js": "/DamaDares/static/js/main.265de382.js",
+    "static/js/787.2a40f640.chunk.js": "/DamaDares/static/js/787.2a40f640.chunk.js",
+    "index.html": "/DamaDares/index.html",
+    "main.00dd578e.css.map": "/DamaDares/static/css/main.00dd578e.css.map",
+    "main.265de382.js.map": "/DamaDares/static/js/main.265de382.js.map",
+    "787.2a40f640.chunk.js.map": "/DamaDares/static/js/787.2a40f640.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00dd578e.css",
+    "static/js/main.265de382.js"
+  ]
+}
